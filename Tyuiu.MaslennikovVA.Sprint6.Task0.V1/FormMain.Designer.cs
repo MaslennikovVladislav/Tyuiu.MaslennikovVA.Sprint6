@@ -66,6 +66,7 @@
             textBoxTask_MVA.Size = new Size(415, 201);
             textBoxTask_MVA.TabIndex = 0;
             textBoxTask_MVA.Text = "Вычислить выражение по формуле";
+          
             // 
             // pictureBoxForm_MVA
             // 

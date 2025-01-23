@@ -4,7 +4,7 @@ using tyuiu.cources.programming.interfaces.Sprint6;
 
 namespace Tyuiu.MaslennikovVA.Sprint6.Task0.V1.Lib
 {
-    public class DataService : ISprint6Task0V1
+    public class DataService : ISprint6Task0V18
     {
         public double Calculate(int x)
         {
